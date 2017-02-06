@@ -1,6 +1,6 @@
 {
   "name": "tap-mocha-reporter",
-  "version": "3.0.0",
+  "version": "3.0.3",
   "description": "Format a TAP stream using Mocha's set of reporters",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "escape-string-regexp": "^1.0.3",
     "glob": "^7.0.5",
     "js-yaml": "^3.3.1",
-    "tap-parser": "^3.0.0",
+    "tap-parser": "^5.1.0",
     "unicode-length": "^1.0.0"
   },
   "devDependencies": {
